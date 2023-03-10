@@ -1,3 +1,4 @@
+
 const menuBtn = document.querySelector('.menu-btn');
 const menuMobile = document.querySelector('.menu-mobile');
 
